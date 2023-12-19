@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background: yellow;
+  width: 500px;
+  height: 250px;
+  border: 20px solid rgb(0, 179, 255); 
+  border-radius: 15px; 
+}
+.plus {background: green;border-radius: 5px; margin: 10px;}
+.minus {background: red;border-radius: 5px;}
+.r {background: rgb(0, 195, 255); border-radius: 5px;}
+.s {color: cadetblue;}
+.c {color: rgb(255, 196, 196);font-size: 30px;}
